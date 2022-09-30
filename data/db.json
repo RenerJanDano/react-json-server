@@ -1,0 +1,19 @@
+{
+  "population": [
+    {
+      "id": 1,
+      "country": "USA",
+      "people": 124124241
+    },
+    {
+      "id": 2,
+      "country": "UK",
+      "people": 713421241
+    },
+    {
+      "id": 3,
+      "country": "Russia",
+      "people": 2412255235
+    }
+  ]
+}
